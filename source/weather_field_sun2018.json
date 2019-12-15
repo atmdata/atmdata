@@ -1,0 +1,9 @@
+{
+    "identifier": "sun2018weather",
+    "date": "2018",
+    "author": "Junzi Sun",
+    "name": "Weather data derived from Mode S",
+    "url": "https://doi.org/10.6084/m9.figshare.6970403",
+    "description": "Supplemental dataset for Weather field reconstruction
+      using aircraft surveillance data and a novel meteo-particle model."
+}
