@@ -25,5 +25,7 @@ def get_data(file_url: str) -> io.BytesIO:
 
 if __name__ == "__main__":
     b = get_data(
-        "https://opensky-network.org/datasets/publication-data/climbing-aircraft-dataset/anonym/B737/test_fromICAO.csv")
+        "https://opensky-network.org/datasets/publication-data/"
+        "climbing-aircraft-dataset/anonym/B737/test_fromICAO.csv"
+    )
     print(pd.read_csv(b))
